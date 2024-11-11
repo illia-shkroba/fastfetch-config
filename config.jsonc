@@ -146,15 +146,9 @@
         },
         {
             "type": "localip",
-            "key": "├─󰩟",
+            "key": "├─󰩠",
             "compact": true,
             "keyColor": "blue"
-        },
-        {
-            "type": "publicip",
-            "key": "├─󰩠",
-            "keyColor": "blue",
-            "timeout": 1000
         },
         {
             "type": "wifi",
